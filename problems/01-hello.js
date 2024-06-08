@@ -6,6 +6,10 @@ console.log.
 */
 
 // Your code here 
+function hello(string) {
+    console.log("Hello, " + string);
+
+}
 
 // Note: If you console.log the return value of these function calls; you will get undefined. Remember a function that does not return anything evaluates to undefined.
 
